@@ -71,7 +71,7 @@ module.exports = {
           items: [
             {
               label: 'Source Code',
-              href: 'https://github.com/KygekTeam/Pocketmine-Schoo',
+              href: 'https://github.com/KygekTeam/Pocketmine-School',
             },
             {
               label: 'KygekTeam Website',
