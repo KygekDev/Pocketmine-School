@@ -54,7 +54,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Communtiy ',
+          title: 'Community',
           items: [
             {
               label: 'UltraSoft Discord',
@@ -63,6 +63,19 @@ module.exports = {
             {
               label: 'KygekTeam Discord',
               href: 'https://discord.gg/CXtqUZv',
+            },
+          ],
+        },
+        {
+          title: 'Other Links',
+          items: [
+            {
+              label: 'Source Code',
+              href: 'https://github.com/KygekTeam/Pocketmine-Schoo',
+            },
+            {
+              label: 'KygekTeam Website',
+              href: 'https://kygekteam.org',
             },
           ],
         },
