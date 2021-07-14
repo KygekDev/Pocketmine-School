@@ -90,7 +90,7 @@ module.exports = {
         docs: {
           routeBasePath: '/tutorials',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/TeamUltraSoft/Pocketmine-School/tree/master',
+          editUrl: 'https://github.com/KygekTeam/Pocketmine-School/tree/master',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
