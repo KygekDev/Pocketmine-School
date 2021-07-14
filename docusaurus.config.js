@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Pocketmine School',
+  title: 'PocketMine School',
   tagline: 'A Website That Teaches You About PocketMine Plugin Development',
-  url: 'https://pocketmineschool.netlify.app',
+  url: 'https://pocketmineschool.kygekteam.org/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
@@ -57,13 +57,17 @@ module.exports = {
           title: 'Communtiy ',
           items: [
             {
-              label: 'Discord',
+              label: 'UltraSoft Discord',
               href: 'https://discord.gg/EvUyyS7',
+            },
+            {
+              label: 'KygekTeam Discord',
+              href: 'https://discord.gg/CXtqUZv',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} UltraSoft.`,
+      copyright: `Copyright © ${new Date().getFullYear()} UltraSoft. Currently maintained by KygekTeam.`,
     },
   },
   presets: [
