@@ -21,4 +21,9 @@ module.exports = {
       'htufa/howtosend'
     ],
   },
+  someAnotherSide: {
+    "How to use InvMenu": [
+      'htuim/introduction'
+    ],
+  },
 };

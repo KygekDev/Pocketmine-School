@@ -51,6 +51,10 @@ module.exports = {
               label: 'How to use FormAPI',
               to: 'tutorials/htufa/introduction',
             },
+            {
+              label: 'How to use InvMenu',
+              to: 'tutorials/htuim/introduction',
+            },
           ],
         },
         {

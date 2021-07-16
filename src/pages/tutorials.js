@@ -39,6 +39,11 @@ function Tutorials() {
                             title="How to use FormAPI"
                             des="Ever wanted to create forms? Here is a guide." 
                             />
+                            <TutorialBox
+                            link="htuim/introduction"
+                            title="How to use InvMenu"
+                            des="Do you want to make inventory menus? Learn how to do it here." 
+                            />
                         </div>
                     </div>
                 </div>
