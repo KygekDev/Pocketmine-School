@@ -15,7 +15,7 @@ InvMenu GitHub: https://github.com/Muqsit/InvMenu
 It's very easy, you just need to download InvMenu on Github and put it in your source code or install Phar from Poggit with the help of Devirion (not recommended).
 Or
 You Can edit poggit.yml where you can specify which virion you use:
-```
+```YAML
 libs:
     - src: muqsit/InvMenu/InvMenu
       version: ^2.1.0
