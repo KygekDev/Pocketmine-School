@@ -4,7 +4,8 @@ title: Create Custom Inventory
 sidebar_label: Create Custom Inventory
 ---
 ___
-So let's say you'd like to send players a dispenser inventory. Sadly, InvMenu doesn't ship with a ```InvMenu::TYPE_DISPENSER```. You can still create a dispenser InvMenu by registering a ```MenuMetadata``` object with the information about what a dispenser inventory looks like.<br>
+So let's say you'd like to send players a dispenser inventory. Sadly, InvMenu doesn't ship with a ```InvMenu::TYPE_DISPENSER```. You can still create a dispenser InvMenu by registering a ```MenuMetadata``` object with the information about what a dispenser inventory looks like.
+
 Actually, Don't Forget to add "use" statement:
 ```PHP
 use muqsit\invmenu\metadata\SingleBlockMenuMetadata;
