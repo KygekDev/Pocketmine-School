@@ -4,7 +4,7 @@ title: CreateInventory
 sidebar_label: CreateInventory
 ---
 ___
-first, we need to add "use" statement to get the InvMenu and Items we want to use
+first, we need to add "use" statement to get the InvMenu and Item we want to use
 ```PHP
 use muqsit\invmenu\InvMenu;
 use pocketmine\item\Item;
