@@ -16,5 +16,5 @@ $menu->setInventoryCloseListener(function(Player $player, Inventory $inventory) 
     //do something
 });
 ```
-``$player`` was the Player that Closed that Inventory<br>
+``$player`` was the Player that Closed that Inventory\
 ``$inventory`` to Get Inventory you give ``setCloseListener``
