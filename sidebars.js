@@ -23,7 +23,13 @@ module.exports = {
   },
   someAnotherSide: {
     "How to use InvMenu": [
-      'htuim/introduction'
+      'htuim/introduction',
+      'htuim/inventoryhandler',
+      'htuim/createinventory',
+      'htuim/inventoryslot',
+      'htuim/handletransaction',
+      'htuim/invclosehandler',
+      'htuim/createcustominventory'
     ],
   },
 };
