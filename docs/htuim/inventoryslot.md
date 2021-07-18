@@ -1,3 +1,9 @@
+---
+id: inventoryslot
+title: InventorySlot
+sidebar_label: InventorySlot
+---
+___
 ![ChestInventory](Chest-slots.png)
 
 
