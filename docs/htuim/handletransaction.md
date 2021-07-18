@@ -41,8 +41,7 @@ $menu->setListener(function(InvMenuTransaction $transaction) : InvMenuTransactio
   return $transaction->continue(); //To Continue The Transaction
 });
 ```
-The example above shows that if the player moves his diamond, the player will get a diamond<br>
-and send a message "Yeah, You Got Diamond"
+The example above shows that if the player moves his diamond, the player will get a diamond and send a message "Yeah, You Got Diamond"
 
 To forcefully close or remove the menu from a player, you can use
 ```PHP
