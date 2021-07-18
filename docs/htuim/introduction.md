@@ -7,8 +7,8 @@ ___
 ## What's InvMenu?
 InvMenu is a very easy API to create fake Inventory
 
-It was created by Muqsit<br>
-His Github: https://github.com/Muqsit<br>
+It was created by Muqsit\
+His Github: https://github.com/Muqsit \
 InvMenu GitHub: https://github.com/Muqsit/InvMenu
 
 ## How to install?  
