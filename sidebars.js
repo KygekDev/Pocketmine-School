@@ -1,5 +1,5 @@
 module.exports = {
-  someSidebar: {
+  htmap: {
     "How to make a Plugin": [
       'htmap/introduction',
       'htmap/pluginstructure',
@@ -12,7 +12,7 @@ module.exports = {
       'htmap/tasks'
     ],
   },
-  someotherSide: {
+  htufa: {
     "How to use FormAPI": [
       'htufa/introduction',
       'htufa/simpleform',
@@ -21,7 +21,7 @@ module.exports = {
       'htufa/howtosend'
     ],
   },
-  someAnotherSide: {
+  htuim: {
     "How to use InvMenu": [
       'htuim/introduction',
       'htuim/inventoryhandler',
