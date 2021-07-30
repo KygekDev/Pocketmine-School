@@ -33,8 +33,8 @@ module.exports = {
         srcDark: 'img/pocketmineschool-wbg.png',
       },
       items: [
-        
         {to: 'tutorials/', label: 'Tutorials', position: 'right'},
+        {href: 'https://github.com/KygekTeam/Pocketmine-School', label: 'Source Code', position: 'right'},
       ],
     },
     footer: {
