@@ -7,6 +7,12 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'TeamUltraSoft', // Usually your GitHub org/user name.
   projectName: 'Pocketmine-School', // Usually your repo name.
+  plugins: [
+    [require.resolve("@easyops-cn/docusaurus-search-local"), {
+      docsRouteBasePath: "/tutorials",
+      docsDir: "tutorials",
+    }]
+  ],
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
