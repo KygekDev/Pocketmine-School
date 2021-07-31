@@ -15,6 +15,14 @@ This version of PocketMine School **is a fork of** [**TeamUltraSoft's original P
 
 This version of PocketMine School **is currently maintained by** [**KygekTeam**](https://github.com/KygekTeam).
 
+## Features
+
+- Fast and Responsive Website
+- Search Bar!
+  ![Search Bar](/static/img/searchbar.png)
+- Includes FormAPI & InvMenu Tutorial
+- Light & Dark Mode
+
 ## Why do we fork PocketMine School?
 
 The orginal PocketMine School has been left unmaintained for over 6 months as of writing this page, **yet there are many changes to be made**. Forking PocketMine School also **gives us flexibility to add contents** without having to submit pull requests to the repository.
@@ -24,6 +32,8 @@ The orginal PocketMine School has been left unmaintained for over 6 months as of
 Until the original PocketMine School goes back maintained, **we do not recommend you to submit pull requests or issues in the original PocketMine School repository**. You can submit [pull requests](https://github.com/KygekTeam/Pocketmine-School/pulls) or [issues](https://github.com/KygekTeam/Pocketmine-School/issues) in this fork repository instead, which will be reviewed by KygekTeam staffs.
 
 As soon as the orginal PocketMine School goes back maintained, **we will try submitting a pull request to the original repo unless TeamUltraSoft approves KygekTeam to be the new maintainer**.
+
+<!-- TODO: Add tutorial for building and testing PocketMine School locally -->
 
 ## Additional Notes
 
