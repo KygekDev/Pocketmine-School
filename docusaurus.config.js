@@ -14,6 +14,10 @@ module.exports = {
     }]
   ],
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-179045405-3',
+      anonymizeIP: true,
+    },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
