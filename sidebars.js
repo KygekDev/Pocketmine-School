@@ -32,4 +32,9 @@ module.exports = {
       'htuim/createcustominventory'
     ],
   },
+  htupm: {
+    "How to use PocketMine-MP": [
+      'htupm/introduction'
+    ]
+  }
 };
