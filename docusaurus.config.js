@@ -1,6 +1,6 @@
 module.exports = {
   title: 'PocketMine School',
-  tagline: 'A Website That Teaches You About PocketMine Plugin Development',
+  tagline: 'A Website To Teach Everything About PocketMine-MP',
   url: 'https://pocketmineschool.kygekteam.org/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
