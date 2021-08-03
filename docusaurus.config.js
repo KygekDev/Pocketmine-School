@@ -105,7 +105,7 @@ module.exports = {
           routeBasePath: '/tutorials',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/KygekTeam/Pocketmine-School/tree/master',
-          showLastUpdateAuthor: true,
+          showLastUpdateAuthor: false,
           showLastUpdateTime: true,
         },
         blog: {
