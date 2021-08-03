@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://pocketmineschool.kygekteam.org/"><img src="https://raw.githubusercontent.com/KygekTeam/Pocketmine-School/master/static/img/pocketmineschool-ntp.png"></a><br><br>
-    <b>A Website That Teaches You About PocketMine Plugin Development</b><br><br>
+    <b>A Website To Teach Everything About PocketMine-MP</b><br><br>
     <a href="https://app.netlify.com/sites/pocketmineschool-kygekteam/deploys"><img src="https://api.netlify.com/api/v1/badges/dd9f2209-e1d8-41bf-8030-61693b8693c2/deploy-status"></a>
     <a href="https://discord.gg/CXtqUZv"><img src="https://img.shields.io/discord/735439472992321587.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
 </p>
