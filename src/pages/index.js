@@ -79,14 +79,14 @@ function Home() {
   return (
     <Layout
       title={`Home`}
-      description="A Website That Teaches You About PocketMine Plugin Development"
+      description="A Website To Teach Everything About PocketMine-MP"
     >
         <header className="main">
             <div className="container align-center">
                 <div className="row">
                     <div className="col header-title">
                         <div className="jus-center"><img src="./img/pocketmineschool.png" className="header-img"/></div>
-                        <h1>A Website That Teaches You About PocketMine Plugin Development</h1>
+                        <h1>A Website To Teach Everything About PocketMine-MP</h1>
                         <a href="tutorials" className="btn btn-black">Tutorials</a>
                     </div>
                     <div className="col">
