@@ -99,6 +99,8 @@ function Home() {
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
+              <div className="text-center"><h2>Why PocketMine School?</h2></div>
+              <hr></hr>
               <div className="row">
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
