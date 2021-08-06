@@ -111,6 +111,7 @@ module.exports = {
           editUrl: 'https://github.com/KygekTeam/Pocketmine-School/tree/master',
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
+          sidebarCollapsible: false,
         },
         blog: {
           showReadingTime: true,
