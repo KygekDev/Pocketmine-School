@@ -14,6 +14,7 @@ module.exports = {
     }]
   ],
   themeConfig: {
+    image: 'img/icon.png',
     googleAnalytics: {
       trackingID: 'UA-179045405-3',
       anonymizeIP: true,
