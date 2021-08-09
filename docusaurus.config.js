@@ -14,7 +14,7 @@ module.exports = {
     }]
   ],
   themeConfig: {
-    image: 'img/icon.png',
+    image: 'img/pocketmineschool.png',
     googleAnalytics: {
       trackingID: 'UA-179045405-3',
       anonymizeIP: true,
