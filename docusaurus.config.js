@@ -36,6 +36,13 @@ module.exports = {
         },
       },
     },
+    announcementBar: {
+      id: 'contribute',
+      content: 'We are looking for anyone to contribute in order to make PocketMine School. If you\'re interested, consider <a target="_blank" href="https://github.com/KygekTeam/Pocketmine-School">forking the GitHub repository</a>, then <a target="_blank" href="https://github.com/KygekTeam/Pocketmine-School/pulls">submit a pull request</a> and wait for KygekTeam staff(s) to review and merge your pull request.',
+      backgroundColor: '#fff',
+      textColor: '#000',
+      isCloseable: true,
+    },
     navbar: {
       title: '',
       logo: {
