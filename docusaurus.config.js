@@ -102,7 +102,10 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} UltraSoft. Currently maintained by KygekTeam.`,
+      copyright: `
+        Copyright © ${new Date().getFullYear()} <strong><a href="https://teamultrasoft.github.io">UltraSoft</a></strong>. 
+        Currently maintained by <strong><a href="https://kygekteam.org">KygekTeam</a></strong>.
+      `,
     },
   },
   presets: [
