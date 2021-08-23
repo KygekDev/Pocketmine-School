@@ -1,3 +1,7 @@
+## UPDATE (24-8-2021): The original PocketMine School is now maintained by TeamUltraSoft and us. This repository will no longer be updated. Links from PocketMineSchool.KygekTeam.org and PMSchool.KygekTeam.org now will show the contents of the original PocketMine School repository. Please visit the original repository: https://github.com/PocketMine-School/Pocketmine-School
+
+---
+
 <p align="center">
     <a href="https://pocketmineschool.kygekteam.org/"><img src="https://raw.githubusercontent.com/KygekTeam/Pocketmine-School/master/static/img/pocketmineschool-ntp.png"></a><br><br>
     <b>A Website To Teach Everything About PocketMine-MP</b><br><br>
