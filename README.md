@@ -1,4 +1,6 @@
-## UPDATE (24-8-2021): The original PocketMine School is now maintained by TeamUltraSoft and us. This repository will no longer be updated. Links from PocketMineSchool.KygekTeam.org and PMSchool.KygekTeam.org now will show the contents of the original PocketMine School repository. Please visit the original repository: https://github.com/PocketMine-School/Pocketmine-School
+## UPDATE (24-8-2021)
+### The original PocketMine School is now maintained by TeamUltraSoft and us. This repository will no longer be updated. Links from PocketMineSchool.KygekTeam.org and PMSchool.KygekTeam.org now will show the contents of the original PocketMine School repository. Please visit the original repository: https://github.com/PocketMine-School/Pocketmine-School
+### From now on, all new issues and pull requests which aren't started by KygekTeam or UltraSoft staffs will be either closed or ignored. Please submit one in the [original GitHub repository](https://github.com/PocketMine-School/Pocketmine-School) instead.
 
 ---
 
