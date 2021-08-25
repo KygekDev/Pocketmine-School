@@ -117,6 +117,11 @@ function Home() {
                     <hr></hr>
                     <div className="tutorial-grid">
                         <TutorialBox
+                        link="tutorials/htupm/introduction"
+                        title="How to use PocketMine-MP?"
+                        des="Do you want to make your own PocketMine-MP server? Here you'll learn how to do it." 
+                        />
+                        <TutorialBox
                         link="tutorials/htmap/introduction"
                         title="How to make a Plugin?"
                         des="Learn on how to make a pocketmine plugin." 

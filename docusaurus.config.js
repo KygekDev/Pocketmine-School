@@ -62,6 +62,10 @@ module.exports = {
           title: 'Tutorials',
           items: [
             {
+              label: 'How to use PocketMine-MP',
+              to: 'tutorials/htupm/introduction',
+            },
+            {
               label: 'How to make a Plugin',
               to: 'tutorials/htmap/introduction',
             },
